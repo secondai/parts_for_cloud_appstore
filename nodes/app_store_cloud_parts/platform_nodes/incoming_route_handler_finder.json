@@ -1,10 +1,12 @@
 {
   "type": "incoming_route_handler:Qmsdfkj329j3",
-  "name": "incoming_route_handler_second_about",
+  "name": "incoming_route_handler_finder",
   "data": {
     "priority": 5,
     "routes": [
-      "/about"
+      "/finder",
+      "/metadatas",
+      "/metadatas/*else"
     ]
   }
 }
