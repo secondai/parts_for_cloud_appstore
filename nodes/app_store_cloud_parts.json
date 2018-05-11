@@ -1,0 +1,14 @@
+{
+  "type": "app_parts:Qmf39jssf",
+  "name": "app_store_cloud_parts",
+  "data": {
+    "appId": "cloud_appstore",
+    "name": "Parts for Cloud Second with App Store",
+    "release": "production",
+    "version": 1,
+    "releaseNotes": "...",
+    "owner": "secondai",
+    "defaultBranch": "master",
+    "repo": "parts_for_cloud_appstore"
+  }
+}
