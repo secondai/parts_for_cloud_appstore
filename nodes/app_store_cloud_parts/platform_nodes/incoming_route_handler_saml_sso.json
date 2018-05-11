@@ -1,0 +1,11 @@
+{
+  "type": "incoming_route_handler:Qmsdfkj329j3",
+  "name": "incoming_route_handler_saml_sso",
+  "data": {
+    "priority": 10,
+    "routes": [
+      "/auth/sso",
+      "/auth/saml"
+    ]
+  }
+}

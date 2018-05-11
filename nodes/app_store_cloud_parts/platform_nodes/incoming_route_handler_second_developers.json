@@ -1,10 +1,10 @@
 {
   "type": "incoming_route_handler:Qmsdfkj329j3",
-  "name": "incoming_route_handler_second_about",
+  "name": "incoming_route_handler_second_developers",
   "data": {
     "priority": 5,
     "routes": [
-      "/about"
+      "/developers"
     ]
   }
 }
