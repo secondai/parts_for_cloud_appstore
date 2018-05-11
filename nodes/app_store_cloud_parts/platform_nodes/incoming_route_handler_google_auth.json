@@ -1,0 +1,12 @@
+{
+  "type": "incoming_route_handler:Qmsdfkj329j3",
+  "name": "incoming_route_handler_google_auth",
+  "data": {
+    "priority": 10,
+    "routes": [
+      "/auth/google",
+      "/auth/google/redirect",
+      "/auth/google/callback"
+    ]
+  }
+}
