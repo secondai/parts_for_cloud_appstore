@@ -4,6 +4,6 @@
   "data": {
     "priority": 10,
     "repeat": true,
-    "cron": "*/10 * * * * *"
+    "cron": "*/30 * * * * *"
   }
 }
