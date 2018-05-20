@@ -1,0 +1,8 @@
+{
+  "type": "code:0.0.1:local:32498h32f2",
+  "name": "code",
+  "data": {
+    "key": "d6e84b33-256c-438a-9fde-9dac80d54dec",
+    "code": "(()=>{\n  return new Promise(async (resolve, reject)=>{\n    try {\n      \n      // returns html partial \n      \n            // &nbsp;|&nbsp;\n            // <a href=\"/appstore\">Store</a>\n            \n      let html = `\n        <div class=\"container\">\n          <br />\n          <div class=\"links\">\n            <a href=\"/\">Home</a>\n            &nbsp;|&nbsp;\n            <a href=\"/about\">About</a>\n            &nbsp;|&nbsp;\n            <a href=\"/developers\">Developers</a>\n          </div>\n          <hr />\n        </div>\n      `;\n      \n      return resolve({\n        type: 'html:Qmlsfj',\n        data: {\n          html\n        }\n      });\n            \n        \n        \n    }catch(err){\n      resolve({ERROR: true, err: err.toString()});\n    }\n    \n    \n  })\n})()"
+  }
+}
