@@ -1,9 +1,0 @@
-{
-  "type": "heartbeat_task:Qmsfj032fjslfdk",
-  "name": "heartbeat_task_test",
-  "data": {
-    "priority": 10,
-    "repeat": true,
-    "cron": "*/30 * * * * *"
-  }
-}
